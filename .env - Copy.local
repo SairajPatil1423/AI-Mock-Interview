@@ -1,0 +1,7 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_aHVtYW5lLWJ1bGwtMzMuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_RPz5HTLUweuAhUXffsE1u1usCWFBKHeHB5cOhihA4N
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+DATABASE_URL_DRIZZLE=postgresql://neondb_owner:wTQ8C6DpdiaP@ep-morning-paper-a8iyqyja.eastus2.azure.neon.tech/AI-mocker?sslmode=require
+NEXT_PUBLIC_GEMINI_API_KEY=AIzaSyCXXWT64phLmF4rLugrvg5S4JgHF9EF46s
